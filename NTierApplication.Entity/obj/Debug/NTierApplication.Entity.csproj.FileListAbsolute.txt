@@ -1,0 +1,10 @@
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\bin\Debug\NTierApplication.Entity.dll.config
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\bin\Debug\NTierApplication.Entity.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\bin\Debug\NTierApplication.Entity.pdb
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\obj\Debug\NTierApplication.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\obj\Debug\NTierApplication.Entity.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.Entity\obj\Debug\NTierApplication.Entity.pdb

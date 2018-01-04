@@ -1,0 +1,12 @@
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\NTierApplication.DAL.dll.config
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\NTierApplication.DAL.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\NTierApplication.DAL.pdb
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\NTierApplication.Entity.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\NTierApplication.Entity.pdb
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\obj\Debug\NTierApplication.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\obj\Debug\NTierApplication.DAL.dll
+C:\Users\Wissen\Desktop\NTierApplication_guncel\NTierApplication_guncel\NTierApplication.DAL\obj\Debug\NTierApplication.DAL.pdb
