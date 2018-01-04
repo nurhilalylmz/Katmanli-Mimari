@@ -1,1 +1,1 @@
-# SOLIDPRINCPLESS
+# Katmanli-Mimari
